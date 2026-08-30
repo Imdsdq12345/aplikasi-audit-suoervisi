@@ -1,0 +1,6 @@
+{
+  "name": "SIAS-Kesiswaan",
+  "description": "Sistem Informasi Audit Supervisi Kegiatan Kesiswaan Sekolah Islam Terpadu (SD, SMP, SMA, IBS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
